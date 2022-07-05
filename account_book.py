@@ -6,7 +6,7 @@
 
 #한 사람의 통장을 받아서 정리할 목적으로 구현되는 클래스
 class account_book():
-    #수정
+    #수정2
     def UserInput(): # 통장삽입
         user = input("통장을 삽입하세요.")
         return user
